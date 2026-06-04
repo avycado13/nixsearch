@@ -2,6 +2,10 @@
 name = "nixsearch"
 version = "0.1.0"
 edition = "2024"
+description = "a tui for searching nixpkgs"
+repository = "https://github.com/avycado13/nixsearch"
+license = "MIT"
+
 
 [dependencies]
 arboard = "3.6.1"
